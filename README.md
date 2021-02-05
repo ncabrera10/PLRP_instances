@@ -6,4 +6,7 @@ Each txt file contains, the client number, x and y coordinates in km, and the ti
 
 References:
 
-Coindreau,  M.,  Gallay,  O.,  &  Zufferey,  N.  (2019).   Vehicle  routing  withtransportable resources: Using carpooling and walking for on-site services.European Journal of Operational Research,279, 996–1010. doi:10.1016/j.ejor.2019.06.039.
+-Cabrera N., J.-F. Cordeau, and J.E Mendoza. The doubly open park-and-loop routing problem. Targeted for submission to European Journal of Operational Research.
+-Coindreau,  M.,  Gallay,  O.,  &  Zufferey,  N.  (2019).   Vehicle  routing  withtransportable resources: Using carpooling and walking for on-site services.European Journal of Operational Research,279, 996–1010. doi:10.1016/j.ejor.2019.06.039.
+
+
