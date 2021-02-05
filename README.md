@@ -10,4 +10,8 @@ References:
 
 -Coindreau,  M.,  Gallay,  O.,  &  Zufferey,  N.  (2019).   Vehicle  routing  withtransportable resources: Using carpooling and walking for on-site services. European Journal of Operational Research,279, 996–1010. doi:10.1016/j.ejor.2019.06.039.
 
+===========================================================================================================================================================================
+Usage & License
+===========================================================================================================================================================================
 
+The authors would really enjoy to know the use of this instances, so please send a line to n.cabrera10@uniandes.edu.co describing us your algorithm and results (as brief as you want). 
